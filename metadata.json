@@ -1,0 +1,6 @@
+{
+  "name": "Scholar — Academic & School Manager",
+  "description": "Comprehensive academic operating system for students to track courses, assignments, weekly timetable schedules, GPA goals, and study sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
